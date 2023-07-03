@@ -57,7 +57,7 @@
                             }
                         }
                     }, [t._v("> ")]), e("div", {staticClass: "card-subTitle"}, [t._v(t._s(n.title))])], 1)])
-                })), 1)], 1), e("el-footer", [t._v("华中师范大学人工智能教育学部")]), e("el-dialog", {
+                })), 1)], 1), e("el-footer", [t._v("教育数字化转型资源集锦")]), e("el-dialog", {
                     attrs: {
                         fullscreen: !0,
                         visible: t.dialogVisible
@@ -130,7 +130,7 @@
                     name: "HelloWorld", data() {
                         return {
                             activeIndex: "0",
-                            logo_img: "https://oss.funcfang.cn/ccnu/ccnu_logo.png",
+                            logo_img: "temp.png",
                             dialogVisible: !1,
                             now: d[0],
                             chosenItem: d[0].items[0],
