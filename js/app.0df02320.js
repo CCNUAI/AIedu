@@ -85,45 +85,45 @@
                 items: [{
                     title: "教育数字化转型战略行动",
                     img: "https://oss.funcfang.cn/ccnu/yan0/zy.png",
-                    vedio: "https://1318089688.vod2.myqcloud.com/d84817b6vodcq1318089688/4fa16890243791581946243322/qcMbdFdv3RQA.mp4"
+                    vedio: "http://1318089688.vod-qcloud.com/d84817b6vodcq1318089688/56cd0f801397757885935338295/IeAgkK9hvgAA.mp4"
                 }, {
                     title: "学校教育数字化转型规划",
                     img: "https://oss.funcfang.cn/ccnu/yan0/zx.png",
-                    vedio: "https://1318089688.vod2.myqcloud.com/d84817b6vodcq1318089688/5b5f81da243791581946757412/HE1iHV6MZuUA.mp4"
+                    vedio: "http://1318089688.vod-qcloud.com/d84817b6vodcq1318089688/0eece5b31397757885941303194/8EANzqIBZHQA.mp4
                 }, {
                     title: "世界数字教育大会",
                     img: "https://oss.funcfang.cn/ccnu/yan0/dahui.png",
-                    vedio: "https://1318089688.vod2.myqcloud.com/d84817b6vodcq1318089688/bc70603e3270835009811440558/hSdhB87SPg8A.mp4"
+                    vedio: "http://1318089688.vod-qcloud.com/d84817b6vodcq1318089688/60b749761397757885942526162/Cx08e84bHUAA.mp4"
                 }]
             }, {
                 title: "高等教育",
                 items: [{
                     title: "数字化卓越教师培养体系的构建与实践",
                     img: "https://oss.funcfang.cn/ccnu/yan0/teacher.png",
-                    vedio: "https://1318089688.vod2.myqcloud.com/d84817b6vodcq1318089688/4f8ab1fe3270835009813162744/iQO1qOq1HKwA.mp4"
+                    vedio: "http://1318089688.vod-qcloud.com/d84817b6vodcq1318089688/185566fa1397757885941716922/PmEfjFZg14EA.mp4"
                 }, {
                     title: "人工智能+教育”研究生高质量培养体系的探索与实践",
                     img: "https://oss.funcfang.cn/ccnu/yan0/yjs.png",
-                    vedio: "https://1318089688.vod2.myqcloud.com/d84817b6vodcq1318089688/7b56d0c53270835009810971818/l7atjyoorawA.mp4"
+                    vedio: "http://1318089688.vod-qcloud.com/d84817b6vodcq1318089688/bb1ac7da1397757885940029872/9AUMiQbAfxcA.mp4"
                 }, {
                     title: "数字人文实践中的“云上中文”平台构筑与应用",
                     img: "https://1318089688.vod2.myqcloud.com/af32055evodtranscq1318089688/02c9f3613270835009812198217/coverBySnapshot_10_0.jpg",
-                    vedio: "https://1318089688.vod2.myqcloud.com/d84817b6vodcq1318089688/02c9f3613270835009812198217/iNcYDndytH4A.mp4"
+                    vedio: "http://1318089688.vod-qcloud.com/d84817b6vodcq1318089688/59a289d01397757885942210805/zjlLM4xrsZAA.mp4"
                 }]
             }, {
                 title: "基础教育",
                 items: [{
                     title: '"互联网+”支撑省域基础教育优质均衡发展',
                     img: "https://1318089688.vod2.myqcloud.com/af32055evodtranscq1318089688/047baf753270835009812207160/coverBySnapshot_10_0.jpg",
-                    vedio: "https://1318089688.vod2.myqcloud.com/d84817b6vodcq1318089688/047baf753270835009812207160/k6DnqLk0hwIA.mp4"
+                    vedio: "http://1318089688.vod-qcloud.com/d84817b6vodcq1318089688/8b1009291397757885939387818/Pa7bDDK5pxkA.mp4"
                 }, {
                     title: "AI+三个课堂“开好课创新实践片",
                     img: "https://oss.funcfang.cn/ccnu/yan0/ai3.png",
-                    vedio: "https://1318089688.vod2.myqcloud.com/d84817b6vodcq1318089688/c13124e43270835009811658382/1f7ZYSmunxYA.mp4"
+                    vedio: "http://1318089688.vod-qcloud.com/d84817b6vodcq1318089688/a3ea67b61397757885936356311/yVu9Zp2U6XQA.mp4"
                 }, {
                     title: "人工智能引领的科学教育创新",
                     img: "https://1318089688.vod2.myqcloud.com/af32055evodtranscq1318089688/106a0e9c3270835009812740372/coverBySnapshot_10_0.jpg",
-                    vedio: "https://1318089688.vod2.myqcloud.com/d84817b6vodcq1318089688/106a0e9c3270835009812740372/aj3O0GhclIMA.mp4"
+                    vedio: "http://1318089688.vod-qcloud.com/d84817b6vodcq1318089688/ea2c701b1397757885937094253/KxXStZUBUXEA.mp4"
                 }]
             }];
             var u = {
