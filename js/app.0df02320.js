@@ -89,7 +89,7 @@
                 }, {
                     title: "学校教育数字化转型规划",
                     img: "https://oss.funcfang.cn/ccnu/yan0/zx.png",
-                    vedio: "http://1318089688.vod-qcloud.com/d84817b6vodcq1318089688/0eece5b31397757885941303194/8EANzqIBZHQA.mp4
+                    vedio: "http://1318089688.vod-qcloud.com/d84817b6vodcq1318089688/0eece5b31397757885941303194/8EANzqIBZHQA.mp4"
                 }, {
                     title: "世界数字教育大会",
                     img: "https://oss.funcfang.cn/ccnu/yan0/dahui.png",
