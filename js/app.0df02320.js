@@ -107,14 +107,14 @@
                     vedio: "http://1318089688.vod-qcloud.com/d84817b6vodcq1318089688/bb1ac7da1397757885940029872/9AUMiQbAfxcA.mp4"
                 }, {
                     title: "数字人文实践中的“云上中文”平台构筑与应用",
-                    img: "https://1318089688.vod2.myqcloud.com/af32055evodtranscq1318089688/02c9f3613270835009812198217/coverBySnapshot_10_0.jpg",
+                    img: "http://1318089688.vod-qcloud.com/af32055evodtranscq1318089688/59a289d01397757885942210805/coverBySnapshot_10_0.jpg",
                     vedio: "http://1318089688.vod-qcloud.com/d84817b6vodcq1318089688/59a289d01397757885942210805/zjlLM4xrsZAA.mp4"
                 }]
             }, {
                 title: "基础教育",
                 items: [{
                     title: '"互联网+”支撑省域基础教育优质均衡发展',
-                    img: "https://1318089688.vod2.myqcloud.com/af32055evodtranscq1318089688/047baf753270835009812207160/coverBySnapshot_10_0.jpg",
+                    img: "http://1318089688.vod-qcloud.com/af32055evodtranscq1318089688/8b1009291397757885939387818/coverBySnapshot_10_0.jpg",
                     vedio: "http://1318089688.vod-qcloud.com/d84817b6vodcq1318089688/8b1009291397757885939387818/Pa7bDDK5pxkA.mp4"
                 }, {
                     title: "AI+三个课堂“开好课创新实践片",
@@ -122,7 +122,7 @@
                     vedio: "http://1318089688.vod-qcloud.com/d84817b6vodcq1318089688/a3ea67b61397757885936356311/yVu9Zp2U6XQA.mp4"
                 }, {
                     title: "人工智能引领的科学教育创新",
-                    img: "https://1318089688.vod2.myqcloud.com/af32055evodtranscq1318089688/106a0e9c3270835009812740372/coverBySnapshot_10_0.jpg",
+                    img: "http://1318089688.vod-qcloud.com/af32055evodtranscq1318089688/ea2c701b1397757885937094253/coverBySnapshot_10_0.jpg",
                     vedio: "http://1318089688.vod-qcloud.com/d84817b6vodcq1318089688/ea2c701b1397757885937094253/KxXStZUBUXEA.mp4"
                 }]
             }];
