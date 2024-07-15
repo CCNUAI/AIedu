@@ -101,11 +101,13 @@
                     title: "数字化卓越教师培养体系的构建与实践",
                     img: "https://oss.funcfang.cn/ccnu/yan0/teacher.png",
                     vedio: "http://1318089688.vod-qcloud.com/d84817b6vodcq1318089688/185566fa1397757885941716922/PmEfjFZg14EA.mp4"
-                }, {
-                    title: "人工智能+教育”研究生高质量培养体系的探索与实践",
-                    img: "https://oss.funcfang.cn/ccnu/yan0/yjs.png",
-                    vedio: "http://1318089688.vod-qcloud.com/d84817b6vodcq1318089688/bb1ac7da1397757885940029872/9AUMiQbAfxcA.mp4"
-                }, {
+                }, 
+                //         {
+                //     title: "人工智能+教育”研究生高质量培养体系的探索与实践",
+                //     img: "https://oss.funcfang.cn/ccnu/yan0/yjs.png",
+                //     vedio: "http://1318089688.vod-qcloud.com/d84817b6vodcq1318089688/bb1ac7da1397757885940029872/9AUMiQbAfxcA.mp4"
+                // }, 
+                  {
                     title: "数字人文实践中的“云上中文”平台构筑与应用",
                     img: "http://1318089688.vod-qcloud.com/af32055evodtranscq1318089688/59a289d01397757885942210805/coverBySnapshot_10_0.jpg",
                     vedio: "http://1318089688.vod-qcloud.com/d84817b6vodcq1318089688/59a289d01397757885942210805/zjlLM4xrsZAA.mp4"
