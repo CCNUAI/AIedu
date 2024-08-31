@@ -86,7 +86,12 @@
                     title: "教育数字化转型战略行动",
                     img: "https://oss.funcfang.cn/ccnu/yan0/zy.png",
                     vedio: "http://1318089688.vod-qcloud.com/d84817b6vodcq1318089688/56cd0f801397757885935338295/IeAgkK9hvgAA.mp4"
-                }, {
+                },{
+                    title: "数据驱动 融合创新——华中师范大学全面推进教育数字化的实践探索",
+                    img: "http://1318089688.vod-qcloud.com/af32055evodtranscq1318089688/4f8618991397757891964847230/coverBySnapshot_10_0.jpg",
+                    vedio: "http://1318089688.vod-qcloud.com/d84817b6vodcq1318089688/4f8618991397757891964847230/zpDtRLwVd8MA.mp4"
+                },  
+                {
                     title: "学校教育数字化转型规划",
                     img: "https://oss.funcfang.cn/ccnu/yan0/zx.png",
                     vedio: "http://1318089688.vod-qcloud.com/d84817b6vodcq1318089688/0eece5b31397757885941303194/8EANzqIBZHQA.mp4"
